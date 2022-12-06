@@ -1,0 +1,1 @@
+# Una-aplicaci-n-de-la-descomposici-n-en-valores-singulares-Inversa-de-Moore-Penrose
